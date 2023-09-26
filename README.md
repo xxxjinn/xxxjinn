@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning typescript
 - 📫 How to reach me: tlsguswls319@naver.com
-- ⚡ Fun fact: i love anime
 
 # Stats
 ![xxxjinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxjinn&theme=solarized-light&show_icons=true)
